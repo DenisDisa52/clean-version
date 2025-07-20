@@ -1,0 +1,46 @@
+[
+  {
+    "news_text": "The U.S. Department of the Treasury has sanctioned the virtual currency mixer Blender.io. The department stated the service was used by the Democratic People's Republic of Korea (DPRK) to process and launder stolen virtual currency from the hack of Axie Infinity's Ronin Bridge.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The government of El Salvador purchased an additional 500 bitcoin. The acquisition was announced by the country's president.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "The TerraUSD (UST) stablecoin de-pegged from its $1.00 valuation, at one point trading as low as $0.985. The Luna Foundation Guard (LFG) confirmed it is deploying its Bitcoin reserves to defend the peg. The price of the associated LUNA token has declined significantly following these events.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The U.S. Securities and Exchange Commission (SEC) has officially approved spot Ether exchange-traded funds (ETFs).",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The price of Bitcoin fell below the $68,000 level, which is being monitored by traders as a key support area. A drop below this level is seen as potentially leading to a test of the $65,000 price point.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "Nomura's subsidiary, Laser Digital, has partnered with GMO Group to explore the issuance of Japanese Yen and U.S. Dollar-denominated stablecoins in Japan.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The Mt. Gox trustee transferred an additional 16,000 BTC to a new wallet. This is part of a series of recent transfers, totaling over 64,000 BTC, in preparation for creditor repayments.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "The Sandbox announced a partnership with an undisclosed major global brand to create a metaverse experience, with further details to be revealed next week. The platform's native token, SAND, increased 5% in price following the announcement.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The U.S. House of Representatives passed the Financial Innovation and Technology for the 21st Century Act (FIT21). The legislation, which aims to provide a regulatory framework for digital assets, will now proceed to the Senate.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Mastercard announced the expansion of its crypto credential program into Europe and Latin America. The company is collaborating with partners including Aptos Labs and Mercado Bitcoin for this initiative.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Jupiter, a decentralized exchange operating on the Solana network, has announced the launch of Jupiter Labs. The new initiative is designed to foster development on its platform.",
+    "initial_category": "defi"
+  }
+]

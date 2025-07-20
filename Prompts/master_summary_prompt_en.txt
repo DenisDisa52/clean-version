@@ -1,0 +1,12 @@
+You are a news agency editor. You will be provided with a collection of news snippets from various sources for a single day. Many of these news items are duplicates.
+
+Your task is to:
+1.  Carefully read all the provided news items.
+2.  Identify groups of news that describe the same event (e.g., a specific lawsuit, a company's Bitcoin purchase, a network upgrade).
+3.  For each group of duplicates, merge the information from all sources into a single, comprehensive news brief. Discard the original duplicates.
+4.  Keep unique news items, which have no duplicates, unchanged.
+5.  Present the final output as a clean list of news briefs. Each brief should start on a new paragraph. Do not add any numbering, titles, or your own commentary. Just output the refined and consolidated news text.
+
+Here is the text to process:
+---
+{news_text}

@@ -1,0 +1,20 @@
+{
+  "prompt_path": "Prompts/rebalancer_prompt_en.txt",
+  "gemini_model": "gemini-2.5-pro",
+  "api_key_names": [
+    "GEMINI_API_KEY_1",
+    "GEMINI_API_KEY_2",
+    "GEMINI_API_KEY_3",
+    "GEMINI_API_KEY_4",
+    "GEMINI_API_KEY_5",
+    "GEMINI_API_KEY_6"
+  ],
+  "target_topic_ratio": {
+    "learning": 5,
+    "earning": 5,
+    "defi": 7,
+    "btc": 4,
+    "copy_trading": 1,
+    "spot": 3
+  }
+}

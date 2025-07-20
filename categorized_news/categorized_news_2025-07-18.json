@@ -1,0 +1,82 @@
+[
+  {
+    "news_text": "Сбер has proposed making banks centers for the accounting and storage of cryptocurrencies. The proposal, which suggests transferring control of Bitcoin storage to banks, has been sent to the Central Bank for consideration.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "According to data from CoinGecko, the total market capitalization of cryptocurrencies has exceeded $4 trillion for the first time.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "OpenAI has introduced a new universal AI agent within ChatGPT. The agent can independently perform tasks on behalf of the user, such as managing a calendar, creating presentations, and writing and executing code.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Ripple co-founder Chris Larsen transferred XRP worth $30 million to the Coinbase exchange. The transfer occurred on July 17, the day before the token reached a new all-time high of $3.65.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The U.S. House of Representatives has passed three cryptocurrency-related bills, including the Financial Innovation and Technology for the 21st Century Act (FIT21). The legislation, which passed with a 279-136 vote, aims to establish a comprehensive regulatory framework for digital assets by defining the roles of the Commodity Futures Trading Commission (CFTC) and the Securities and Exchange Commission (SEC). The bill now moves to the Senate.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The U.S. Securities and Exchange Commission has approved multiple spot Ether (ETH) exchange-traded funds (ETFs) from institutions including BlackRock, Fidelity, Grayscale, Bitwise, VanEck, Ark, Invesco Galaxy, and Franklin Templeton. Trading can begin once the S-1 registration statements are approved. Amidst the news, BlackRock's Ethereum ETF recorded a record inflow of $546 million, with traders targeting an ETH price of $4000.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The company SharpLink Gaming has purchased 32,892 ETH for $119 million, reflecting a trend of public companies shifting investment focus from Bitcoin to other digital assets.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "A user paid a commission of 31.2 ETH, valued at $112,700, for a single transaction.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "A trader on Binance was liquidated for $22,490,000, making the exchange the leader in short liquidations this morning.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Adam Back sold $9.5 billion worth of BTC over the last three days, transferring the remaining 40,000 BTC to Galaxy Digital.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "Thumzup Media, a company associated with the Trump family, received approval to create a $250 million treasury in BTC, XRP, DOGE, and other cryptocurrencies.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "A BTC-collateralized mortgage product is being launched in Australia.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "A British police officer was sentenced to over five years in prison for stealing 50 BTC that had been seized from a co-founder of the darknet market Silk Road 2.0.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "Perplexity AI raised $100 million in a funding round at an $18 billion valuation, with a strategic focus on the Indian market.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The Base network has implemented an upgrade that accelerated its mainnet tenfold.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "A federal judge in New York has denied a motion by the U.S. Securities and Exchange Commission (SEC) to appeal a previous ruling in its case against Ripple Labs. The ruling in question determined that programmatic sales of XRP do not constitute investment contracts.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "A wallet associated with the 2016 Bitfinex hack has transferred approximately $973 million in Bitcoin (BTC), representing 14,517 BTC, to an unknown wallet address.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "Consensys has filed a comment letter opposing an SEC rule proposal that would expand the definition of \"dealer,\" arguing the proposal could improperly classify crypto market participants, including software developers and DeFi users, as securities dealers and stifle innovation.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The Eigen Foundation has initiated the second phase of its first season of staked airdrops for its EIGEN token, making claims available for users who interacted with liquid restaking protocols before March 15.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Crypto exchange Kraken is considering ceasing support for Tether (USDT) within the European Union in response to the upcoming Markets in Crypto-Assets (MiCA) regulation, though no final decision has been made.",
+    "initial_category": "defi"
+  }
+]

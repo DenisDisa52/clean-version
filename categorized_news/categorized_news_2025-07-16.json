@@ -1,0 +1,106 @@
+[
+  {
+    "news_text": "According to Bitwise's \"supply shock\" model, Bitcoin's price could soon reach $150,000.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "80,000 BTC, whose movements have been actively tracked recently, belong to Adam Back, the British cryptographer and creator of Hashcash who corresponded with Satoshi Nakamoto.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "The BigONE exchange was hacked for $27,000,000.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "American financial company Cantor Fitzgerald plans to acquire $3.5 billion worth of BTC.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "Nvidia received permission from the Trump administration to sell its H20 chip in China following a meeting between CEO Jensen Huang and the U.S. President.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "A user lost $340,117 by signing a phishing transaction.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Developers have proposed migrating Bitcoin users to quantum-resistant addresses and freezing vulnerable ones, with a mechanism for fund recovery.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Tether has minted 2,000,000,000 USDT at its treasury.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The top 10 public companies now hold 1,600,000 ETH, worth approximately $5 billion, in their reserves. SharpLink is the leader with 280,600 ETH, surpassing even the Ethereum Foundation.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "CMBI, the brokerage division of China Merchants Bank, has become the first mainland Chinese broker to receive a license from Hong Kong's Securities and Futures Commission (SFC) for crypto trading.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Russia's State Duma has passed a law for the phased implementation of the digital ruble (CBDC) into the country's budget process.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "BNB Chain announced the creation of a new generation blockchain, designed to be decentralized and open while offering the speed and user experience of a centralized exchange (CEX).",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The White House is actively discussing the dismissal of Federal Reserve Chair Jerome Powell. According to a White House official, President Trump may soon fire him. Amid these rumors, the odds for a Fed rate cut in September have surged to 63%.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "U.S. authorities have confiscated $10,000,000 worth of cryptocurrency from the Sinaloa drug cartel.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The U.S. Securities and Exchange Commission (SEC) has approved eight spot Ethereum (ETH) exchange-traded funds (ETFs). The approved issuers include BlackRock, Fidelity, Grayscale, VanEck, Franklin Templeton, Bitwise, ARK 21Shares, and Invesco Galaxy. Trading is expected to commence pending the approval of the S-1 registration statements.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Approximately 141,000 Bitcoin (BTC), valued at over $9 billion, has been moved from Mt. Gox cold wallets to an unidentified address. This is the first significant transfer from these wallets in five years and is reportedly related to the process of repaying creditors.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "The Hong Kong Monetary Authority (HKMA) announced the conclusion of Phase 2 of its e-HKD pilot program. The program studied potential applications for a central bank digital currency, focusing on programmability, tokenization, and atomic settlement. A full report on the findings will be published later in the year.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Citigroup is considering issuing its own stablecoin to facilitate digital payments, according to CEO Jane Fraser.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Ripple announced a partnership with Ctrl Alt to expand its global custody footprint into the Middle East, supporting Dubai's Real Estate Tokenization Project for tokenizing property title deeds on the XRP Ledger.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "A total of 125 public companies have now added Bitcoin to their holdings.",
+    "initial_category": "btc"
+  },
+  {
+    "news_text": "PayPal will expand its $PYUSD stablecoin to the Arbitrum network.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "The U.S. Producer Price Index (PPI) fell to 2.3%, which was below expectations.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Crypto-related bills have passed a procedural vote in the U.S. House of Representatives.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Michael Saylor’s MicroStrategy has hit a new all-time high market cap of over $127 billion.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Coinbase Wallet is rebranding to \"Base app\" and transforming into a comprehensive platform with integrated chat, app discovery, trading, and earning features.",
+    "initial_category": "defi"
+  },
+  {
+    "news_text": "Holders of World Liberty Financial ($WLFI) have approved a measure to make the token tradable, with 99.94% voting in favor.",
+    "initial_category": "defi"
+  }
+]

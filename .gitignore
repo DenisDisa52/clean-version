@@ -1,0 +1,37 @@
+# Виртуальные окружения Python
+.venv/
+venv/
+*.pyenv
+
+# Файлы с секретами
+.env
+telegram_config.json
+
+# Файлы сессий Telethon
+*.session
+*.session-journal
+
+# Кэш и скомпилированные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Папки и файлы настроек IDE (PyCharm)
+.idea/
+
+# База данных
+neuro_crypto.db
+
+# Генерируемые папки с результатами
+/daily_summaries/
+/master_summaries/
+/categorized_news/  # --- ДОБАВЛЕНО ---
+/Gen_Photo/         # --- ДОБАВЛЕНО ---
+
+# Временные файлы для тестов и отладки
+selected_topic.txt
+try_shit.py
+
+# Файлы операционной системы (для Windows)
+Thumbs.db

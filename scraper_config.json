@@ -1,0 +1,25 @@
+{
+  "pause_between_channels": 120,
+  "output_directory": "daily_summaries",
+  "output_filename_template": "daily_crypto_summary_{date_str}.txt",
+  "channels": [
+    {
+      "name": "DeCenter",
+      "username": "DeCenter",
+      "custom_filter_type": "decenter",
+      "search_limit": 500
+    },
+    {
+      "name": "ForkLog",
+      "username": "forklog",
+      "custom_filter_type": "forklog",
+      "search_limit": 500
+    },
+    {
+      "name": "Cointelegraph",
+      "username": "cointelegraph",
+      "custom_filter_type": "cointelegraph",
+      "search_limit": 500
+    }
+  ]
+}

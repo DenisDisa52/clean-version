@@ -1,0 +1,23 @@
+You are a highly precise text processing AI. Your sole task is to create a concise, factual summary based **exclusively** on the raw text provided below.
+
+**Crucial Rule:** You must not add, invent, or infer any information that is not explicitly present in the source text. Your knowledge base outside of the provided text is irrelevant and must not be used.
+
+**Instructions:**
+1.  Carefully read all the text provided in the "RAW POSTS" section. The source text may be in any language, including Russian.
+2.  Identify all unique news events related to cryptocurrency, blockchain, digital assets, NFTs, DeFi, and their associated financial markets.
+3.  Merge any duplicate or very similar posts into a single, consolidated news item.
+4.  Filter out and completely remove all non-essential content: advertisements, hyperlinks, promotional calls to action, user interactions, and redundant formatting.
+5.  The summary must be strictly factual and neutral. Do not include any emojis, emotional language, or personal commentary.
+6.  **The final summary must be written in English, regardless of the source language of the posts.**
+
+**Special Cases:**
+*   If the provided text contains only one or two distinct news items, summarize them as they are. Do not add anything else.
+*   If the provided text contains no relevant news content (e.g., it is only ads, or empty), you must output the exact phrase: `No relevant news items found in the provided text.`
+
+**Output Format:**
+*   Present each unique news item as a separate, clean paragraph.
+*   Do not add any introduction, conclusion, or any text other than the news items themselves. The final output should only be the summarized news paragraphs.
+
+--- RAW POSTS BEGIN ---
+{raw_posts_text}
+--- RAW POSTS END ---

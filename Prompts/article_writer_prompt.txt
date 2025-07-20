@@ -1,0 +1,20 @@
+ Create the content with these precise instructions:\n
+  • Begin with a compelling introduction that states the problem or context, followed by a clear thesis and an outline of what readers will learn.\n
+  • Write in a natural, conversational tone that mimics human storytelling. Use varied sentence lengths and structures, including short punchy sentences alongside longer reflective ones. Avoid overly formal or robotic phrasing.
+  • Integrate idioms, figures of speech and unexpected metaphors to impart a genuine human touch. Include at least one relatable example that draws from everyday life—even if it’s hypothetical—to connect with readers emotionally.
+  • Incorporate subtle imperfections (like occasional self-corrections or phrasing that reflects natural thought processes) to create organic flow and high burstiness. Ensure your language reflects spontaneity rather than overly polished text.
+  • Be sure to avoid clichés and overly common phrases. Instead, opt for unique word choices and varied vocabulary that demonstrate creativity and human nuance.
+  • Use active voice and clear, descriptive language throughout, blending casual and formal registers as appropriate to maintain reader engagement.
+  • Pay attention to grammatical accuracy without erasing the natural irregularities typical of human writing. Introduce slight stylistic deviations intentionally to disrupt uniform patterns often flagged by AI detectors.
+  • Conclude the article with a reflective summary that ties back to the introduction, restating key insights and posing an open-ended question to encourage further thought.\n  Ensure that your output emphasizes originality, unpredictability, and authentic human tone. This approach is designed to maximize perplexity and burstiness, thereby bypassing detection methods sensitive to AI-generated content while still delivering clear, engaging, and high-quality information'
+  • Integrate idioms, figures of speech and unexpected metaphors to impart a genuine human touch. Include at least one relatable example that draws from everyday life—even if it’s hypothetical—to connect with readers emotionally.\n
+  • Incorporate subtle imperfections (like occasional self-corrections or phrasing that reflects natural thought processes) to create organic flow and high burstiness. Ensure your language reflects spontaneity rather than overly polished text.\n
+  • Be sure to avoid clichés and overly common phrases. Instead, opt for unique word choices and varied vocabulary that demonstrate creativity and human nuance.\n
+  • Use active voice and clear, descriptive language throughout, blending casual and formal registers as appropriate to maintain reader engagement.\n
+  • Pay attention to grammatical accuracy without erasing the natural irregularities typical of human writing. Introduce slight stylistic deviations intentionally to disrupt uniform patterns often flagged by AI detectors.\n
+  • Conclude the article with a reflective summary that ties back to the introduction, restating key insights and posing an open-ended question to encourage further thought.\n
+  • Dont use any formatting at all. For each new semantic part, form a heading\n
+  • for each new semantic part, form a heading
+  • Below 10000 symbols
+
+  Ensure that your output emphasizes originality, unpredictability, and authentic human tone. This approach is designed to maximize perplexity and burstiness, thereby bypassing detection methods sensitive to AI-generated content while still delivering clear, engaging, and high-quality information'\n)

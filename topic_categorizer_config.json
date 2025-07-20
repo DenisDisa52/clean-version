@@ -1,0 +1,7 @@
+{
+  "categories": ["learning", "earning", "defi", "btc", "copy trading", "spot"],
+  "gemini_embedding_model": "gemini-embedding-exp-03-07",
+  "gemini_api_key_name": "GEMINI_API_KEY_10",
+  "output_directory": "categorized_news",
+  "output_filename_template": "categorized_news_{date_str}.json"
+}
